@@ -1,11 +1,11 @@
-<h1 align="center">&lt;Hariprasanth U /&gt;</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Code.+Create.+Connect." />
-</p>
+<h1 align="center">Hi👋, I'm Hariprasanth U </h1>
 
 <p align="center">
   <strong>Building Scalable Software & Intelligent Systems</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Code.+Create.+Connect." />
 </p>
 
 ---
