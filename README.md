@@ -1,8 +1,14 @@
-# Hariprasanth U
+<h1 align="center">Hariprasanth U</h1>
 
-Backend & AI Systems Engineer (Early Stage)  
-Building Production-Grade Intelligent Systems  
-Focused on RAG Architectures • Scalable APIs • AI Automation  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Code.+Create.+Connect." />
+</p>
+
+<p align="center">
+Backend & AI Systems Engineer (Early Stage)<br>
+Building Production-Grade Intelligent Systems<br>
+RAG Architectures • Scalable APIs • Intelligent Automation
+</p>
 
 ---
 
@@ -10,29 +16,69 @@ Focused on RAG Architectures • Scalable APIs • AI Automation
 
 I design and build backend systems that integrate Artificial Intelligence into real-world applications.
 
-My core focus areas include:
+My core focus areas:
 
-- Retrieval-Augmented Generation (RAG) architectures
-- Vector databases & embedding-based retrieval
-- RESTful API development (Spring Boot / FastAPI)
-- Computer Vision-based automation systems
-- Speech-enabled AI assistants (STT + TTS integration)
-- Modular and scalable system design
+- Retrieval-Augmented Generation (RAG) systems  
+- Vector databases & embedding-based retrieval  
+- RESTful APIs (Spring Boot / FastAPI)  
+- Computer Vision automation systems  
+- Speech-enabled AI assistants (STT + TTS)  
+- Modular and scalable backend architectures  
 
-I prioritize clean architecture, maintainability, and production-oriented development practices.
+I prioritize clean structure, performance, and production-oriented design.
 
 ---
 
-## Architecture Mindset
+## 🛠 Tech Stack
+
+### 💻 Programming  
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ⚙ Backend  
+
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML  
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge"/>
+</p>
+
+### 🧰 Tools  
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## Architecture Approach
 
 When building systems, I follow:
 
-- Clear modular folder structures
-- Service-layer separation
-- Embedding → Retrieval → Context → Response pipelines
-- State-machine driven automation logic
-- Dockerized deployments
-- Structured commit semantics (feat/fix/refactor/docs)
+- Modular folder structures  
+- Service-layer separation  
+- Embedding → Retrieval → Context → Response pipelines  
+- State-machine driven automation logic  
+- Dockerized deployments  
+- Structured commit semantics (feat / fix / refactor / docs)  
 
 ---
 
@@ -40,86 +86,40 @@ When building systems, I follow:
 
 ### 🌾 Mitra – AI Agri Assistant
 
-AI-powered agricultural advisory system built using a RAG-based backend.
+AI-powered agricultural advisory system built with a RAG-based backend.
 
 System Flow:
-1. User Input (Text / Voice)
-2. Speech-to-Text Processing
-3. Embedding Generation
-4. MongoDB Vector Similarity Search
-5. Context Builder
-6. LLM Response Synthesis
-7. Text-to-Speech Output
 
-Tech Stack:
-FastAPI • MongoDB (Vector Search) • SentenceTransformers • Whisper • Docker
+1. User Input (Text / Voice)  
+2. Speech-to-Text Processing  
+3. Embedding Generation  
+4. MongoDB Vector Similarity Search  
+5. Context Builder  
+6. LLM Response Synthesis  
+7. Text-to-Speech Output  
 
-Key Highlights:
-- Modular backend architecture
-- Embedding-driven retrieval pipeline
-- Scalable API routing
-- Context-aware advisory responses
+Tech Stack: FastAPI • MongoDB • SentenceTransformers • Docker  
 
 ---
 
 ### 🧠 AURA – AI Personal Assistant
 
-Real-time fatigue detection and automation system using Computer Vision.
+Real-time fatigue detection & automation engine.
 
 Architecture:
-Camera Input → Eye Detection → Blink Tracking → State Machine → Action Trigger
+Camera → Eye Detection → Blink Tracking → State Machine → Action Trigger  
 
-Core Components:
-- OpenCV Haar Cascade Detection
-- Blink-based fatigue classification
-- NORMAL / TIRED state engine
-- Automated system-level actions
-- Sense → Decide → Act design pattern
-
-Tech Stack:
-Python • OpenCV • TTS Engine • System Automation APIs
+Tech Stack: Python • OpenCV • TTS • System Automation APIs  
 
 ---
 
-## Tech Stack
-
-Languages:  
-Java (17+) | Python (3.10+) | SQL | C++
-
-Backend Frameworks:  
-Spring Boot | FastAPI
-
-AI / ML:  
-PyTorch | TensorFlow | OpenCV | Transformers | SentenceTransformers
-
-Databases:  
-MongoDB (Vector Search) | MySQL
-
-DevOps & Tools:  
-Docker | Git | Postman | MySQL Workbench
-
----
-
-## Engineering Focus
-
-- Designing scalable AI-backend architectures
-- Optimizing embedding retrieval systems
-- Building intelligent automation systems
-- Writing maintainable backend code
-- Improving system efficiency and latency
-- Structuring production-ready repositories
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariprasanth5002&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasanth5002&layout=compact)
-
----
-
-## Connect With Me
+## 📫 Connect
 
 Email: hariprasanth5002@gmail.com  
-LinkedIn: https://linkedin.com/in/Hariprasanth U/
+LinkedIn: https://linkedin.com/in/Hariprasanth U/  
+
+---
+
+<p align="center">
+<b>Code. Create. Connect.</b>
+</p>
